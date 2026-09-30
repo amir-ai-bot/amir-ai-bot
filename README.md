@@ -1,65 +1,56 @@
-# Yassin DHIBI
+<h1 align="center">Yassin Dhibi</h1>
 
-Business Intelligence student focused on Python, SQL, PostgreSQL, data pipelines, backend systems, and practical AI assistants.
+<p align="center">
+  <strong>Business Intelligence Student · Data & AI Builder · Backend-minded problem solver</strong>
+</p>
 
-I build projects that connect data preparation, database design, application logic, and user-facing interfaces. My current direction is data engineering and BI work with enough backend depth to make analytics systems usable through APIs and applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassin-dhibi-39162935a/">LinkedIn</a> ·
+  <a href="https://github.com/amir-ai-bot">GitHub</a>
+</p>
 
-## Main Technical Interests
+> I turn raw data into clear decisions — and build the systems people use to act on them.
 
-- Python for ETL, automation, desktop apps, and model workflows
-- SQL and PostgreSQL for data modeling, reporting, and application storage
-- Power BI and business intelligence dashboards
-- FastAPI and backend services for exposing clean data
-- AI assistants with practical language and workflow features
-- React, TypeScript, Angular, and PyQt for application interfaces
+## What I build
 
-## Featured Projects
+I work at the intersection of **data engineering**, **business intelligence**, and **practical AI**. My projects move from messy inputs and intentional data models to APIs, dashboards, and interfaces that make information useful.
 
-### Retail Intelligence Platform
+- **Data platforms:** ETL-style Python workflows, PostgreSQL warehouse layers, KPI-ready SQL, and analytics APIs.
+- **Intelligent applications:** assistants with multilingual, workflow, and user-history features.
+- **Product-minded backend:** reliable services, role-aware systems, and interfaces that turn analysis into action.
 
-Data engineering and analytics project for retail sales analysis.
+## Core stack
 
-- Python cleaning pipeline for Kaggle retail datasets
-- PostgreSQL raw, staging, warehouse, and mart layers
-- SQL KPI queries for dashboard consumption
-- FastAPI endpoints for selected warehouse metrics
-- Baseline forecasting workflow for weekly sales
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,react,ts,angular,supabase,git&theme=dark" alt="Python, PostgreSQL, FastAPI, React, TypeScript, Angular, Supabase, Git" />
+</p>
 
-Repository: https://github.com/amir-ai-bot/retail-intelligence-platform
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Applied%20ML-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-### SGP Project Management System
+## Selected work
 
-Desktop project management system built with Python, PyQt6, PostgreSQL, and RBAC.
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Retail Intelligence Platform](https://github.com/amir-ai-bot/retail-intelligence-platform) | Retail data pipeline from cleaning to warehouse/marts, KPI queries, FastAPI metrics, and baseline weekly forecasting. | Python · PostgreSQL · SQL · FastAPI |
+| [Fatima Darija Assist](https://github.com/amir-ai-bot/fatima-darija-assist) | Tunisian Darija/French assistant with chat, translation, voice-focused UX, history, and serverless LLM integrations. | React · TypeScript · Supabase |
+| [SGP Project Management System](https://github.com/amir-ai-bot/sgp-project) | Desktop project-management system with RBAC, reporting, logging, and environment-based database configuration. | Python · PyQt6 · PostgreSQL |
+| [SmartField Connect](https://github.com/amir-ai-bot/smartfield-connect) | Role-aware agricultural operations platform for projects and tasks, designed for mobile-ready workflows. | React · TypeScript · Supabase · Capacitor |
 
-- Role-based access control
-- Project, task, resource, document, and reporting modules
-- PostgreSQL schema and seed data
-- Structured logging and environment-based database configuration
+## Currently sharpening
 
-Repository: https://github.com/amir-ai-bot/sgp-project
+- Data engineering patterns that scale: orchestration, modeling, testing, and observability.
+- Analytics engineering that makes trustworthy metrics easy to use.
+- AI experiences that solve real workflow problems — not just demos.
 
-### SmartField Connect
+## GitHub activity
 
-Agricultural field operations platform built with React, TypeScript, Supabase, and Capacitor.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amir-ai-bot&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="Yassin's GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ai-bot&theme=github-dark-blue&hide_border=true" alt="Yassin's GitHub contribution streak" />
+</p>
 
-- Project and task tracking for agricultural workflows
-- Authentication and role-aware dashboard features
-- Supabase-backed data access
-- Mobile-ready structure through Capacitor
-
-Repository: https://github.com/amir-ai-bot/smartfield-connect
-
-### Fatima Darija Assist
-
-Tunisian Darija and French assistant application built with React, TypeScript, Supabase Edge Functions, and LLM integrations.
-
-- Chat, translation, voice-oriented UI, and user history
-- Supabase database migrations and serverless functions
-- Authentication, profile, subscription, and admin surfaces
-
-Repository: https://github.com/amir-ai-bot/fatima-darija-assist
-
-## Contact
-
-- LinkedIn: https://linkedin.com/in/yassin-dhibi-39162935a
-- GitHub: https://github.com/amir-ai-bot
+<p align="center">
+  <em>Open to collaborating on data platforms, BI dashboards, backend APIs, and useful AI products.</em>
+</p>
